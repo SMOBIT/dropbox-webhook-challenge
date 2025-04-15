@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // HIER DEIN MAKE.COM WEBHOOK EINTRAGEN
-const MAKE_WEBHOOK_URL = "https://hook.eu2.make.com/DEIN_WEBHOOK";
+const MAKE_WEBHOOK_URL = "https://hook.eu2.make.com/c8y2uy4d2aox7fpvgy9nwpr1mb98b8wl";
 
 app.use(bodyParser.json());
 
